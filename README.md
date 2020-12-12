@@ -30,8 +30,13 @@ Team Reviewer is 100% Web GUI app, based on OWASP Defect Dojo with a lot of enha
 
 Getting Started:
 git clone https://github.com/DefectDojo/django-DefectDojo
+
 cd django-DefectDojo
-git checkout release/1.7.1
+
+git checkout release/<CURRENT_RELEASE>
+
 git clone https://github.com/dsyman/teamreviewer
+
 docker-compose build
+
 docker-compose up -d
