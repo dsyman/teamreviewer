@@ -1,5 +1,6 @@
-# teamreviewer
-Team Reviewer - defectDojo plugin
+# Team Reviewer
+A defectDojo plugin
+
 Team Reviewer is 100% Web GUI app, based on OWASP Defect Dojo with a lot of enhancements:
 
 - Multi-language Kit is available for localization.
@@ -28,7 +29,8 @@ Team Reviewer is 100% Web GUI app, based on OWASP Defect Dojo with a lot of enha
 
 - Application Portfolio Management tools integration
 
-Getting Started:
+# Getting Started
+
 git clone https://github.com/DefectDojo/django-DefectDojo
 
 cd django-DefectDojo
